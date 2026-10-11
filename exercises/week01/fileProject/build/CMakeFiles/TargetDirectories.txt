@@ -1,0 +1,3 @@
+/home/butterknight/cpp-learning/exercises/week01/fileProject/build/CMakeFiles/fileProject.dir
+/home/butterknight/cpp-learning/exercises/week01/fileProject/build/CMakeFiles/edit_cache.dir
+/home/butterknight/cpp-learning/exercises/week01/fileProject/build/CMakeFiles/rebuild_cache.dir
