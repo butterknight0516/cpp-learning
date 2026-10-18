@@ -1,4 +1,0 @@
-/home/butterknight/cpp-learning/build/CMakeFiles/cpp_demo.dir
-/home/butterknight/cpp-learning/build/CMakeFiles/test.dir
-/home/butterknight/cpp-learning/build/CMakeFiles/edit_cache.dir
-/home/butterknight/cpp-learning/build/CMakeFiles/rebuild_cache.dir

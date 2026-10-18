@@ -1,0 +1,5 @@
+在项目根路径下：
+mkdir build
+cd build
+cmake ..
+cmake --build .

@@ -1,0 +1,19 @@
+更新git:
+git add .
+git commit -m "update"
+git push
+
+拉取：
+git pull
+
+第一次新建仓库：
+sudo apt update
+sudo apt install git -y
+git init
+git branch -M main
+。。。设置密钥
+git remote add origin git@github.com:zhangsan/myproject.git
+
+配置信息：
+git config --global user.name "你的GitHub用户名"
+git config --global user.email "你的GitHub邮箱"
